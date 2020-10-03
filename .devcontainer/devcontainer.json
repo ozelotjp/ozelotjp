@@ -1,0 +1,26 @@
+{
+  "name": "ozelotjp",
+  "extensions": [
+    // General
+    "editorconfig.editorconfig",
+    "codezombiech.gitignore",
+    "eamodio.gitlens",
+    // Markdown
+    "yzhang.markdown-all-in-one",
+    // textlint
+    "taichi.vscode-textlint"
+  ],
+  "settings": {
+    "editor.formatOnSave": true,
+    "[markdown]": {
+      "editor.formatOnSave": false
+    },
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    }
+  },
+  // Docker-Compose
+  "dockerComposeFile": "../docker-compose.yml",
+  "service": "app",
+  "workspaceFolder": "/app"
+}
