@@ -4,7 +4,7 @@ title: '私について'
 position: 1
 ---
 
-🔧 Web & Jamstack Developer (at student, IH14A)<br>
+🔧 Web & Jamstack Developer<br>
 💙 JavaScript / TypeScript / Vue / Nuxt<br>
 💬 Check out ozelot.app for more info!
 
