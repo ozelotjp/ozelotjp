@@ -1,6 +1,6 @@
 ## About ozelotjp
 
-🔧 Web & Jamstack Developer (at student, IH14A)<br>
+🔧 Web & Jamstack Developer<br>
 💙 JavaScript / TypeScript / Vue / Nuxt<br>
 💬 Check out [ozelot.app](https://ozelot.app) for more info!
 
