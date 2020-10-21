@@ -9,12 +9,12 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "@nuxt/content-theme-docs": "^0.7.2",
-    "nuxt": "^2.14.7"
+    "@nuxt/content-theme-docs": "0.7.2",
+    "nuxt": "2.14.7"
   },
   "devDependencies": {
-    "textlint": "^11.7.6",
-    "textlint-rule-preset-ja-spacing": "^2.0.2",
-    "textlint-rule-preset-ja-technical-writing": "^4.0.1"
+    "textlint": "11.7.6",
+    "textlint-rule-preset-ja-spacing": "2.0.2",
+    "textlint-rule-preset-ja-technical-writing": "4.0.1"
   }
 }
