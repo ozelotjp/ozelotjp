@@ -2,7 +2,7 @@
 
 🔧 Web & Jamstack Developer<br>
 💙 JavaScript / TypeScript / Vue / Nuxt<br>
-💬 Check out [ozelot.app](https://ozelot.app) for more info!
+💬 Check out [ozelot.dev](https://ozelot.dev) for more info!
 
 ## Status
 
