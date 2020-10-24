@@ -6,7 +6,7 @@ position: 1
 
 🔧 Web & Jamstack Developer<br>
 💙 JavaScript / TypeScript / Vue / Nuxt<br>
-💬 Check out ozelot.app for more info!
+💬 Check out ozelot.dev for more info!
 
 ## 自己紹介
 
