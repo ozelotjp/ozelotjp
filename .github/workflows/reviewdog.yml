@@ -9,7 +9,7 @@ jobs:
         with:
           submodules: true
       - name: textlint-github-pr-review
-        uses: tsuyoshicho/action-textlint@v1
+        uses: tsuyoshicho/action-textlint@v2
         with:
           github_token: ${{ secrets.GH_TOKEN }}
           reporter: github-pr-review
