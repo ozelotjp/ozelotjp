@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@nuxt/content-theme-docs": "0.8.2",
-    "nuxt": "2.14.7"
+    "nuxt": "2.14.9"
   },
   "devDependencies": {
     "textlint": "11.7.6",
